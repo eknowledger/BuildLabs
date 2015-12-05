@@ -1,0 +1,8 @@
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Console\bin\Debug\SampleApp.Console.exe.config
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Console\bin\Debug\SampleApp.Console.exe
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Console\bin\Debug\SampleApp.Console.pdb
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Console\bin\Debug\SampleApp.Core.dll
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Console\bin\Debug\SampleApp.Core.pdb
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Console\obj\Debug\SampleApp.Console.csprojResolveAssemblyReference.cache
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Console\obj\Debug\SampleApp.Console.exe
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Console\obj\Debug\SampleApp.Console.pdb

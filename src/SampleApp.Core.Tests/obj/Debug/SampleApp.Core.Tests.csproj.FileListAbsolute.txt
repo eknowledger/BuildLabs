@@ -1,0 +1,7 @@
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core.Tests\bin\Debug\SampleApp.Core.Tests.dll
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core.Tests\bin\Debug\SampleApp.Core.Tests.pdb
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core.Tests\bin\Debug\SampleApp.Core.dll
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core.Tests\bin\Debug\SampleApp.Core.pdb
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core.Tests\obj\Debug\SampleApp.Core.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core.Tests\obj\Debug\SampleApp.Core.Tests.dll
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core.Tests\obj\Debug\SampleApp.Core.Tests.pdb
