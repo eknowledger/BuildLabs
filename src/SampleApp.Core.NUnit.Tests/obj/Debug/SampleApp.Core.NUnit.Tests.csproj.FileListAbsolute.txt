@@ -1,0 +1,9 @@
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core.NUnit.Tests\bin\Debug\SampleApp.Core.NUnit.Tests.dll
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core.NUnit.Tests\bin\Debug\SampleApp.Core.NUnit.Tests.pdb
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core.NUnit.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core.NUnit.Tests\bin\Debug\SampleApp.Core.dll
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core.NUnit.Tests\bin\Debug\SampleApp.Core.pdb
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core.NUnit.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core.NUnit.Tests\obj\Debug\SampleApp.Core.NUnit.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core.NUnit.Tests\obj\Debug\SampleApp.Core.NUnit.Tests.dll
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core.NUnit.Tests\obj\Debug\SampleApp.Core.NUnit.Tests.pdb

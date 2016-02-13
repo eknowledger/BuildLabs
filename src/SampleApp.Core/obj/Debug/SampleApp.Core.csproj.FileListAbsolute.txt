@@ -1,4 +1,5 @@
 C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core\bin\Debug\SampleApp.Core.dll
 C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core\bin\Debug\SampleApp.Core.pdb
+C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core\obj\Debug\SampleApp.Core.csprojResolveAssemblyReference.cache
 C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core\obj\Debug\SampleApp.Core.dll
 C:\Projects\__Git\Labs\BuildLabs\src\SampleApp.Core\obj\Debug\SampleApp.Core.pdb

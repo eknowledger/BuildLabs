@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+  <id>SampleApp.Core</id>
+  <title>SampleApp.Core</title>
+  <version>0.0.2</version>
+  <releaseNotes>Release Notes:
+</releaseNotes>
+  <description>A cool nuget</description>
+  <authors>Henrik</authors>
+  <dependencies/>
+</metadata>
+  <files>
+    <file src="bin\Debug\SampleApp.Core.dll" target="lib\net45"/>
+    <file src="bin\Debug\SampleApp.Core.pdb" target="lib\net45"/>
+  </files>
+</package>

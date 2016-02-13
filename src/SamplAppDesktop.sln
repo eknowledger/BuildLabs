@@ -11,6 +11,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp.Core", "SampleApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp.Console", "SampleApp.Console\SampleApp.Console.csproj", "{9AE36597-19C5-40EF-B91D-7A9999769A4C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{4C237B05-D60C-45FA-80C4-F599EC0DA2D3}"
+	ProjectSection(SolutionItems) = preProject
+		rakeconfig.rb = rakeconfig.rb
+		rakefile.rb = rakefile.rb
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp.Core.NUnit.Tests", "SampleApp.Core.NUnit.Tests\SampleApp.Core.NUnit.Tests.csproj", "{BABA2C3E-7B3A-4C32-9586-202B703CF8F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{305C5E51-8F06-41C6-9779-55A63D117E9E}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,11 +42,16 @@ Global
 		{9AE36597-19C5-40EF-B91D-7A9999769A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AE36597-19C5-40EF-B91D-7A9999769A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AE36597-19C5-40EF-B91D-7A9999769A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BABA2C3E-7B3A-4C32-9586-202B703CF8F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABA2C3E-7B3A-4C32-9586-202B703CF8F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABA2C3E-7B3A-4C32-9586-202B703CF8F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABA2C3E-7B3A-4C32-9586-202B703CF8F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{63452312-9257-4360-A2A5-0F657730B1BB} = {226946FA-F4E7-4506-80BE-460CDE0E3427}
+		{BABA2C3E-7B3A-4C32-9586-202B703CF8F4} = {226946FA-F4E7-4506-80BE-460CDE0E3427}
 	EndGlobalSection
 EndGlobal
